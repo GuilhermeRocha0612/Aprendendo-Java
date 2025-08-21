@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex04DiferençaProduto {
+public class Ex04DiferencaProduto {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
 
