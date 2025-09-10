@@ -14,5 +14,6 @@ public class EstruturaCondicional1 {
             System.out.println("Boa Noite!");
         }
 
+        sc.close();
     }
 }

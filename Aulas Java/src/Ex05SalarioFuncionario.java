@@ -17,6 +17,6 @@ public class Ex05SalarioFuncionario {
         double salario = (double) horas * valorHora;
         System.out.println("Nome do funcionário: " + nome);
         System.out.printf("Salário: R$%.2f%n",  salario);
-
+        sc.close();
     }
 }

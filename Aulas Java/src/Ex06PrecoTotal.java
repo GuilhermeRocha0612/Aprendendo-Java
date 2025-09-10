@@ -24,6 +24,7 @@ public class Ex06PrecoTotal {
 
         System.out.printf("O Valor total a pagar é de: R$%.2f%n", valorTotal);
 
+        sc.close();
 
     }
 }

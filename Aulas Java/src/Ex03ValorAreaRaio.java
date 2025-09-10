@@ -14,6 +14,6 @@ public class Ex03ValorAreaRaio {
 
         System.out.println("-----RESULTADO-----");
         System.out.printf("O valor da área é igual a: %.4f%n", area);
-
+        sc.close();
     }
 }
